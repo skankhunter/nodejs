@@ -11,7 +11,8 @@
   "bin": {
     "current": "date.js",
     "sub": "sub.js",
-    "add": "add.js"
+    "add": "add.js",
+    "game": "game.js"
   },
   "dependencies": {
     "yargs": "^16.2.0"
