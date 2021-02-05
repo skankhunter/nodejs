@@ -1,18 +1,18 @@
 {
-  "name": "nodejs",
+  "name": "netology-task3-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "date.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mememan",
   "license": "ISC",
   "bin": {
-    "current": "date.js",
-    "sub": "sub.js",
-    "add": "add.js",
-    "game": "game.js"
+    "current": "task2/date.js",
+    "sub": "task2/sub.js",
+    "add": "task2/add.js",
+    "game": "task2/game.js"
   },
   "dependencies": {
     "yargs": "^16.2.0"
