@@ -1,5 +1,5 @@
 {
-  "name": "netology-task3-nodejs",
+  "name": "netology-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,7 @@
     "game": "task2/game.js"
   },
   "dependencies": {
+    "nanoid": "^2.1.8",
     "yargs": "^16.2.0"
   }
 }
