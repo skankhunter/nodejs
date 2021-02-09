@@ -49,7 +49,7 @@ function appendToExist(pathToFile) {
         logs: sessionLogs
     };
 
-    fileData.push(log)
+    fileData.push(log);
     fs.writeFileSync(pathToFile, JSON.stringify(fileData));
 }
 
