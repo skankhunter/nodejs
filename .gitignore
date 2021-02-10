@@ -6,3 +6,5 @@ npm-debug.*
 
 Thumbs.db
 build/
+
+task5/config.js
